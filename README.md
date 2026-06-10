@@ -57,7 +57,6 @@ AWS · Vercel · Git · VS Code
 |------|------------|--------------|
 | Cross-platform app | Expo app that runs on iOS, Android, and web | React Native, Expo, Firebase |
 | Portfolio site | My little corner of the internet | React, Vercel |
-| *(Add your own projects here)* | *Short description* | *Your tech stack* |
 
 ---
 
