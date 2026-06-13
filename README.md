@@ -4,9 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Building+apps+for+web+%26+mobile;Always+learning+something+new&font=Fira%20Code&center=true&width=440&height=45&color=blue&vCenter=true&size=22">
 </p>
 
+<!-- AUTO-UPDATE BADGES (updated by GitHub Action) -->
 <p align="center">
-  <a href="https://github.com/tonderaikawere"><img src="https://img.shields.io/badge/Followers-21-blue?style=for-the-badge&logo=github"></a>
-  <a href="https://github.com/tonderaikawere"><img src="https://img.shields.io/badge/Following-15-blue?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/tonderaikawere"><img src="https://img.shields.io/github/followers/tonderaikawere?label=Followers&style=for-the-badge&logo=github&color=blue"></a>
+  <a href="https://github.com/tonderaikawere"><img src="https://img.shields.io/github/followers/tonderaikawere?label=Following&style=for-the-badge&logo=github&color=blue&cacheSeconds=3600"></a>
   <a href="mailto:tondeskawere@gmail.com"><img src="https://img.shields.io/badge/Email-tondeskawere%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
